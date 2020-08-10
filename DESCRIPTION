@@ -1,5 +1,5 @@
 Package: CLT_Helper
-Title: Sing the 12 Days of Christmas
+Title: Helps with CLT
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Kelly",
